@@ -1,0 +1,57 @@
+.row{
+display: grid;
+grid-template-columns: 2% 66% 12% 11% 19%;
+
+}
+.a1{
+padding-top: 20px;
+margin-left: 90%;
+}
+.b2{
+    padding-top: 20px;
+    margin-left: 50%;
+}
+.c3{
+    padding-top: 20px;
+    margin-left: 60%;
+}
+.row3{
+    position: absolute;
+    top: 50px;
+    left: 28%;
+    color: #faf7f7;
+}
+.row2{
+    position: relative;
+}
+.e1{
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    
+
+}
+.e1 img{
+    width: 98%;
+    border-radius: 15px;
+}
+.m1{
+    padding-top: 5px;
+}
+.n1{
+    padding-top: 5px;
+}
+.z1{
+    width: 102%;
+}
+.row4{
+    display: grid;
+    grid-template-columns: 66.66% 33.33%;
+}
+.row5{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.row6{
+    margin-left: 20%;
+}
